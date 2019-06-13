@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">AIDemo</string>
     <string name="choose_image">选择图片</string>
+    <string name="take_picture">拍摄照片</string>
     <string name="image_classification">图片分类</string>
 </resources>
